@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "hirebus-app",
+  "private_key_id": "32e58cf5d7130e3f075e22ec675b692ec6ca4dac",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDbccvsOVbkVy/p\nfka83Da1bHLROHVw8lpy5RZsJWhDV3B56irV7pJA74S4ILEE4Ox0q6+ub7ka8Shf\nhh2hpOBvw299Lp0sOqOi4uyZ+9BLGyQZyKCtIBU/Rl0u0SvlDybRf3KRIJ75nQiP\ngx0if5d0x3z0HPeSqjqrtVeD4Xf2KuXisZXoyHx+yHgVL5IkWnsz+qjhoWK3J/Jm\njP8+lD26Y+004fKe03vpJnXHuejncU2XdcA5NicBo4O1VH+Nh9EyJxHYFRL+bX74\nrbdmPlCDQvI+J9nJyUhmKCY/hfmAx38lgAIigJA5af/iP2hctSFn6pPTXfv7TK6l\n5937PhxnAgMBAAECggEAAj2wqPaSimQmE9edr1C5McT44iFriZvxDB7sycLfxE2e\nfdR/5GuHNznhWjlZpF4+2twGyKlQ4qzzHzLgBeyiHdmJJf/I3WHlyTvaBPe+Wrxl\nnpT8ykWummXzfUJOP9lzsfcRBh1z5m0R6PoTuvUPRm3S1KU6BGit0z0TcpVl3Thp\naGHY++vOmXj7IOAPc0at378DKHsGVFI1Y/EF7cUmlK8XBPpjZfuC3w2WNX49Rmhh\nMBClpGCFOcs9t6NRTy9p7++OCrX1Oaul+Wth5gJM/SeBBQtTe7dV+gafC4dy0wjt\nh3yFjvcNaCBruY6s5AYuHSQtAp/LcP+9pqa1x0V2SQKBgQD/Xx3OjwcHzidG9hdH\nOd5jgkPc0MWVRYUGNfzrmeqSRn4fzh9hAlvUJo+IEdg8DDPaQhKbDO/78ix8b/SO\nQU2Z70mxuM077xrIhRuWvu/4IbuLNUvlI4QDpZDt7ZiJDTTg1PeUqTCsVZrLtoAc\n79ru7O7LxNF0toI2FK3vSwVJKwKBgQDb/AvSm7qgZJgwlwc8WpyziznoFLc7HfEd\nmnYdpFoTZ7t7nuI/3h1p71iocii7X6tB8oiqojP1se3K+6OqrEQw1C7BnHaBSme7\nx9dXiLSnfPUdo2nKvGXSoGJhmVGZBDRh0mNBlGo+OImEQD/mqPSdLeL2ZC2KDPoc\nxLOIfUGjtQKBgQCif/0wnrTjk5xMvHYNndZUzeSvE65XEVjXne0mYtfwYqkJRhmT\nmnOiqTL2bByEAWPRg+/g+DeRxAXo3TjqeMWPqcPkMmtusvUBGip3H2MGKzjzGWQF\nGDd+NpHlxSYmN+ApHXu5/nt5fjO1Y5lcUIipNt2xjrmWIjjzfu87cSqY5wKBgHN0\niU/z47MimK2H1ohalju1KqMfnDsur8l1s+BCzfO5UbDD5sLWdGGQ+NsPb0lIIL3v\n6MKFdvfQdpk+ENwWpYNrGU8MKzYYMvFfJSoP2aC9+HehuHhrAJXXD0tiCG1iw4tD\nvExC9K/LRIFgpykMK7YCy0e9tBjsTqiipAdSlgyxAoGAVWjnthdLS7cXBUU/rtQ5\nLybFrkFj47t124pNPenHXLkfCI2iFvakVhAIIVnznhyJ09KFB47GdOkttpVU7a2T\nwvK//gSfz8zN/IxrBXqsyZQwcJOOVkZilfb/iLadsXsao4EnvfP4Qu2yos9CFFER\n0zATJJMKNOOS3ZY9m21bfwg=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-f4m6q@hirebus-app.iam.gserviceaccount.com",
+  "client_id": "104209818025643870890",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-f4m6q%40hirebus-app.iam.gserviceaccount.com"
+}

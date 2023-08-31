@@ -1,0 +1,69 @@
+{
+  "name": "notary-server",
+  "version": "1.0.0",
+  "description": "Back-end for Notary App",
+  "main": "server/setup.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start2": "node ./bin/www",
+    "start1": "node server/server.js",
+    "start": "node server/setup.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/zypherteam/notary.git"
+  },
+  "keywords": [
+    "notary",
+    "backend",
+    "expressjs",
+    "nodejs",
+    "mongodb",
+    "restapi"
+  ],
+  "author": "Nandha Kumar and Purujit Srinivasan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/zypherteam/notary/issues"
+  },
+  "homepage": "https://gitlab.com/zypherteam/notary#readme",
+  "dependencies": {
+    "aws-sdk": "^2.849.0",
+    "body-parser": "^1.19.0",
+    "cookie-parser": "^1.4.5",
+    "cors": "^2.8.5",
+    "debug": "^4.3.1",
+    "email-templates": "^8.0.3",
+    "express": "^4.17.1",
+    "express-firebase-middleware": "^3.0.0",
+    "firebase-admin": "^8.13.0",
+    "googleapis": "^118.0.0",
+    "helmet": "^4.4.1",
+    "http-errors": "^1.8.0",
+    "intuit-oauth": "^3.0.2",
+    "jsonwebtoken": "^8.5.1",
+    "lodash": "^4.17.21",
+    "moment": "^2.29.4",
+    "mongoose": "^5.11.11",
+    "mongoose-float": "^1.0.4",
+    "morgan": "^1.10.0",
+    "multer": "^1.4.4",
+    "multer-s3": "^2.9.0",
+    "node-cron": "^3.0.0",
+    "nodemailer": "^6.5.0",
+    "npm": "^7.22.0",
+    "passport": "^0.4.1",
+    "passport-jwt": "^4.0.0",
+    "path": "^0.12.7",
+    "postmark": "^2.7.3",
+    "pug": "^3.0.2",
+    "razorpay": "^2.0.6",
+    "request": "^2.88.2",
+    "sendotp": "^1.2.9",
+    "underscore": "^1.12.1"
+  },
+  "engines": {
+    "node": "12.18.4",
+    "npm": "6.14.6"
+  }
+}

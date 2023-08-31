@@ -1,0 +1,18 @@
+{
+  "test": {
+    "QBO_ENV": "development",
+    "MONGODB_URI": "mongodb+srv://user:user_001@cluster0.lg6rm.mongodb.net/Cluster0?retryWrites=true&w=majority"
+  },
+  "development": {
+    "QBO_ENV": "development",
+    "MONGODB_URI": "mongodb://ndocsappuser:ndocs#2021Notary!@ip-172-31-21-124.us-west-1.compute.internal:27017/admin?retryWrites=true&w=majority"
+  },
+  "prod": {
+    "QBO_ENV": "production",
+    "MONGODB_URI": "mongodb+srv://user:user_001@cluster0.lg6rm.mongodb.net/Cluster0?retryWrites=true&w=majority"
+  },
+  "production": {
+    "QBO_ENV": "production",
+    "MONGODB_URI": "mongodb+srv://user:user_001@cluster0.lg6rm.mongodb.net/Cluster0?retryWrites=true&w=majority" 
+  }
+}
